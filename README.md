@@ -240,29 +240,6 @@ uvicorn main:app --reload --port 8001
 - Check terminal for error messages
 - Verify firewall isn't blocking port 8000
 
-## 🗺️ Roadmap
-
-### Short-term (3-6 months)
-- [ ] Spanish language support
-- [ ] Persistent session storage with Redis
-- [ ] Mobile-responsive design improvements
-- [ ] "Save and share" functionality
-- [ ] Production deployment with monitoring
-
-### Medium-term (6-12 months)
-- [ ] Scam pattern database for faster matching
-- [ ] User feedback loop for continuous improvement
-- [ ] PDF document analysis capability
-- [ ] Chrome/Firefox extension for inline email checking
-- [ ] Educational institution partnerships
-
-### Long-term (1-2 years)
-- [ ] Multi-language support (Spanish, Mandarin, Hindi)
-- [ ] Real-time phone call analysis
-- [ ] Email client integration
-- [ ] Community-driven scam reporting
-- [ ] Blockchain-based verified scam registry
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
