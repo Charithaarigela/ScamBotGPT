@@ -45,7 +45,7 @@ ScamBotGPT is a real-time scam detection assistant that provides accessible cybe
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/ScamBotGPT.git
+git clone https://github.com/Charithaarigela/ScamBotGPT.git
 cd ScamBotGPT
 ```
 
@@ -279,7 +279,6 @@ This project was developed as a Master's thesis project at Gannon University.
 
 ## 👥 Authors
 
-- **Mohan Krishna Ambati**
 - **Charitha Arigela**
 
 **Advisor**: Dr. Mei-Huei Tang, PhD
@@ -300,7 +299,7 @@ This project was submitted to Gannon University graduate faculty in partial fulf
 
 For questions, issues, or feedback:
 - Open an issue on GitHub
-- Email: [your-email@example.com]
+- Email: [charithaarigela03@gmail.com]
 
 ## 🌟 Acknowledgments
 
