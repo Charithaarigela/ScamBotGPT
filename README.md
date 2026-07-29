@@ -286,8 +286,3 @@ Special thanks to:
 - FTC and PhishTank for scam examples used in testing
 - OpenAI for providing the API and models
 
----
-
-**⚠️ Disclaimer**: ScamBotGPT is a guidance tool, not a guarantee. Always verify through official channels and use your judgment when dealing with suspicious communications. When in doubt, don't click or respond.
-
-**🛡️ Stay Safe Online!**
